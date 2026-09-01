@@ -1,0 +1,15 @@
+:root{
+    --color1:blue;
+    --color2:#fff;
+    --bgColor1: greenyellow;
+}
+
+
+
+.todo-container{
+    color: blue;
+}
+
+.todo-input {
+    color: greenyellow;
+}
